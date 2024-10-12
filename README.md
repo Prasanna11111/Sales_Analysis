@@ -1,4 +1,4 @@
-# Sales_Analysis
+# Exploratory Data Analysis of a Sales dataset
 A Business Analyst Project on Sales Analysis
 In this Sales Analysis Jupyter notebook, we perform Exploratory Data Analysis of the huge Sales data by following the tasks mentioned below. We try to answer the following set of real-world business questions to draw insights from this huge Sales dataset.
 
